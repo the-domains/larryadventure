@@ -1,4 +1,3 @@
-layout_spectrum: 0.5305017053615302
 typography_spectrum: 0.8429342308081686
 color:
   brandStrength: 0.10218246723525226
@@ -11,4 +10,6 @@ color:
     - '#F5F6D4'
     - '#A7C520'
     - '#493F0B'
+layout_spectrum: 0.5305017053615302
 name: LARRYADVENTURE
+title: LARRYADVENTURE
